@@ -1,0 +1,15 @@
+#About this file
+Complete UFO sightings, including time standardization and geocoding
+
+#Columns
+* datetime - Contains date and time of sighting
+* city - City in which UFO was sighted
+* state - State in which UFO was sighted
+* country - Country of Sighting
+* shape - Shape of the UFO
+* duration (seconds) - Duration of the Sighting in seconds
+* duration (hours/min) - Duration of the sighting in hours and min
+* comments - Sighting description
+* date posted - Posted date of the sighting
+* latitude - Latitude coordinate of the sighting
+* longitude - Longitude coordinate of the sighting

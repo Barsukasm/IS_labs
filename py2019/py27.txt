@@ -1,0 +1,19 @@
+
+jupyter_nbextensions_configurator jupyter_contrib_nbextensions
+jupyter contrib nbextension install --user
+jupyter nbextensions_configurator enable --user
+
+"c:\Program Files\Python37\Scripts\jupyter-notebook.exe"
+
+# Python( for user, без установки в переменную среду) запуск тетради
+"c:\Program Files\Python27\Scripts\jupyter-notebook.exe" c:\Programs\work2019
+не требуется Админ права
+
+# Anaconda запуск тетради
+    @ Заключние: Конда для работы одходит, базовый набор пакетов дотаточно для 1 лабы. Создать новцю ЕНВ окружепние не выходить- ошибка
+
+    c:\Programs\Anaconda2\python.exe c:\Programs\Anaconda2\cwp.py c:\Programs\Anaconda2 c:\Programs\Anaconda2\python.exe c:\Programs\Anaconda2\Scripts\jupyter-notebook-script.py
+
+    conda create -p c:\work
+    conda info --env
+    conda activate c:\work
